@@ -1,0 +1,8 @@
+{
+	"@parcel/bundler-default": {
+		"minBundleSize": 0
+	},
+	"dependencies": {
+		"@babel/core": "^7.11.1"
+	}
+}
