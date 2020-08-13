@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"build": "parcel build *.html --no-cache --no-minify --no-source-maps"
+	},
 	"@parcel/bundler-default": {
 		"minBundleSize": 0
 	},
