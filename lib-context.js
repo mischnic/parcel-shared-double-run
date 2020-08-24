@@ -1,4 +1,4 @@
-const y = 1;
+const y = {};
 console.log("y", y);
 
 export default y;

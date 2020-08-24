@@ -1,1 +1,1 @@
-import "./x2.js";
+import "./lib-component2.js";
